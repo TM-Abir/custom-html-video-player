@@ -1,0 +1,6 @@
+1.Place a video file in this folder.
+2.Rename it as  "sample"
+3.Go to the html file
+4.In the video src=""  change the type of the video.
+		 example:  sample.MOV   sample.mp4    
+	whatever video type you have.
